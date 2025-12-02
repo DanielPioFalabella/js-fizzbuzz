@@ -1,0 +1,22 @@
+li {
+    list-style: none;
+}
+
+.fizz {
+    color: blue;
+    font-weight: 500;
+}
+
+.buzz {
+    color: red;
+    font-weight: 500;
+}
+
+.fizzbuzz {
+    color: rgb(115, 0, 223);
+    font-weight: 600;
+}
+
+.color-none {
+    color: black;
+}
